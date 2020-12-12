@@ -1,0 +1,63 @@
+c:\users\phamhuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe.config
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csprojResolveAssemblyReference.cache
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.FormMain.resources
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.frm_About.resources
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Form1.resources
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Properties.Resources.resources
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csproj.GenerateResource.Cache
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\PhamHuong\documents\visual studio 2012\Projects\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe.config
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.exe
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csprojResolveAssemblyReference.cache
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.FormMain.resources
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.frm_About.resources
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Form1.resources
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Properties.Resources.resources
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csproj.GenerateResource.Cache
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.TapSuKien.resources
+E:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.fmTapLuat.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe.config
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.exe
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csprojResolveAssemblyReference.cache
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.FormMain.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.frm_About.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.fmTapLuat.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Form1.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Properties.Resources.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.TapSuKien.resources
+I:\Trong Data\Trọng's folder\Tai lieu hoc tap Ky 6\Hệ chuyên gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csproj.GenerateResource.Cache
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe.config
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csprojResolveAssemblyReference.cache
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.FormMain.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.frm_About.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.fmTapLuat.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Form1.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Properties.Resources.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.TapSuKien.resources
+C:\Users\hanh\Desktop\tam giac luong -du\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe.config
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.exe
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\bin\Debug\HeChuyenGia_GiaiLuongGiac.pdb
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.FormMain.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\Triangle_Problem.frm_About.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.fmTapLuat.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Form1.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.Properties.Resources.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.TapSuKien.resources
+C:\Users\Admin\Desktop\tam giac luong\He Chuyen Gia\HeChuyenGia_GiaiLuongGiac\HeChuyenGia_GiaiLuongGiac\obj\Debug\HeChuyenGia_GiaiLuongGiac.csproj.GenerateResource.Cache

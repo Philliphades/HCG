@@ -1,0 +1,13 @@
+﻿Begin
+A : số đo  góc đối diện cạnh a
+B : số đo  góc đối diện cạnh b
+C : số đo  góc đối diện cạnh c
+a : độ dài canh a
+b : độ dài canh b
+c : độ dài canh c
+ha : độ dài đường cao tương ứng với cạnh a
+hb : độ dài đường cao tương ứng với cạnh b
+hc : độ dài đường cao tương ứng với cạnh c
+S : diện tích tam giác
+p : nửa chu vi tam giác
+End.
